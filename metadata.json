@@ -1,0 +1,5 @@
+{
+  "name": "Kiosk Fruit Ninja",
+  "description": "A high-performance, touch-optimized fruit slicing game designed for large event screens and kiosks.",
+  "requestFramePermissions": []
+}
